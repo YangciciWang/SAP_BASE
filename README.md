@@ -9,5 +9,6 @@ left join sap_test.class c on c.class=ss.class
 left join sap_test.date d on d.date=ss.date
 left join sap_test.session s on s.session=ss.session
 where c.major='AV' AND s.type = '147' 
-ORDER BY ss.date DESC;
+ORDER BY ss.date DESC，ss.teacher;
 ```
+降序DESC 升序ASC
