@@ -25,5 +25,5 @@ ORDER BY ss.date,ss.session asc;
 [WPF通过NPIO读写Excel操作](https://www.cnblogs.com/lunawzh/p/5981492.html)，该篇读取时自动添加ABC等列表头，
 且只能读取xsl。  
 [使用NPOI导入导出Excel(xls/xlsx)数据到DataTable中](https://www.cnblogs.com/songrun/p/3547738.html)，该篇读取时
-以excel文件的第一行作为列表头，且可读xsl和xslx文件  
+以excel文件的第一行作为列表头，且可读xsl和xslx文件。  
 可按自己需求参照修改！
